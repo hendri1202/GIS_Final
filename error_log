@@ -1,0 +1,15 @@
+[08-Jan-2020 01:05:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id12150945_gis_hendri'@'localhost' (using password: YES) in /home/quoh2764/public_html/teknofo.com/koneksi.php on line 6
+[08-Jan-2020 01:05:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quoh2764/public_html/teknofo.com/marker.php on line 13
+[08-Jan-2020 01:05:19 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/quoh2764/public_html/teknofo.com/marker.php on line 15
+[08-Jan-2020 01:05:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id12150945_gis_hendri'@'localhost' (using password: YES) in /home/quoh2764/public_html/teknofo.com/koneksi.php on line 6
+[08-Jan-2020 01:05:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quoh2764/public_html/teknofo.com/marker.php on line 13
+[08-Jan-2020 01:05:53 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/quoh2764/public_html/teknofo.com/marker.php on line 15
+[08-Jan-2020 01:11:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id12150945_gis_hendri'@'localhost' (using password: YES) in /home/quoh2764/public_html/teknofo.com/koneksi.php on line 6
+[08-Jan-2020 01:11:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quoh2764/public_html/teknofo.com/marker.php on line 13
+[08-Jan-2020 01:11:31 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/quoh2764/public_html/teknofo.com/marker.php on line 15
+[08-Jan-2020 01:11:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id12150945_gis_hendri'@'localhost' (using password: YES) in /home/quoh2764/public_html/teknofo.com/koneksi.php on line 6
+[08-Jan-2020 01:11:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quoh2764/public_html/teknofo.com/marker.php on line 13
+[08-Jan-2020 01:11:48 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/quoh2764/public_html/teknofo.com/marker.php on line 15
+[08-Jan-2020 01:11:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id12150945_gis_hendri'@'localhost' (using password: YES) in /home/quoh2764/public_html/teknofo.com/koneksi.php on line 6
+[08-Jan-2020 01:11:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quoh2764/public_html/teknofo.com/marker.php on line 13
+[08-Jan-2020 01:11:53 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/quoh2764/public_html/teknofo.com/marker.php on line 15
