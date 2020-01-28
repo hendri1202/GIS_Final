@@ -1,0 +1,34 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hotel1 {
+  background-image: url('../../assets/img/hotel1.jpg');
+}
+
+div.jumbotron.hotel2 {
+  background-image: url('../../assets/img/hotel2.jpg');
+}
+
+div.jumbotron.hotel3 {
+  background-image: url('../../assets/img/hotel3.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
